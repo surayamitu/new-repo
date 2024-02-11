@@ -1,2 +1,9 @@
-background-color:red
-padding:0
+ create git repo:
+ remote:
+ 1.github e repo toiri
+
+ local:
+ 2.computer a folder toiri
+ 3.files& folders toiri
+ 4.git init
+ 5.git add
